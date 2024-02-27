@@ -14,7 +14,7 @@ Data was extracted using the YFinance library.
 - 2.1: Splitting Data: Splitting data into training and testing sets.
 - 2.2: Time Series Forecasting with ARIMA Model: Implementation of the ARIMA model to predict future Apple stock prices.
 ### Chapter 3: Conclusion
-- 3.1: Apple Stocks Price Prediction Comparison: Predicted vs. Actual: Comparison of prices predicted by the ARIMA model with actual Apple stock prices.
+- 3.1: Apple Stocks Price Prediction Comparison: Predicted Value vs. Actual Value.
 - 3.2: MAE (Mean Absolute Error): Metric to evaluate the model's accuracy.
 - 3.3: MAPE (Mean Absolute Percentage Error): Metric to evaluate the model's accuracy in percentage terms.
 - 3.4: RMSE (Root Mean Squared Error): Metric to evaluate the model's accuracy, penalizing larger errors.
